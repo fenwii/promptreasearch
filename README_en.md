@@ -25,10 +25,17 @@ This project explores advanced techniques in prompt engineering, focusing on str
 - Familiarity with common markup languages
 - Interest in prompt engineering
 - Basic knowledge of software development (optional)
+- TeXstudio (for compiling LaTeX documents)
 
 ### Installation
 
 No installation required. This is a research document that can be accessed directly.
+
+For LaTeX document compilation:
+1. Download and install TeXstudio
+2. Open .tex source files
+3. Use TeXstudio's built-in compiler
+4. Export to PDF format
 
 ### Quick Start Guide
 
